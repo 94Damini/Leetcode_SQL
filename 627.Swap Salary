@@ -1,14 +1,8 @@
 
- <details><summary>
- View Table
- </summary>
- 
-## Table : salary
+  Table : salary
 
 | Column Name | Type     |
-
 |-------------|----------|
-
 | id          | int      |
 | name        | varchar  |
 | sex         | ENUM     |

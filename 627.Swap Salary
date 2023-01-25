@@ -37,6 +37,7 @@ Salary table:
 +----+------+-----+--------+
 
 # Write your MySQL query statement below
+
 ```
 
 update  salary

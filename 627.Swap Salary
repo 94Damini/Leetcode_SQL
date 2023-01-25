@@ -8,7 +8,6 @@
 | sex         | ENUM     |
 | salary      | int      |
 
-</details>
 
 
 id is the primary key for this table.
@@ -38,12 +37,13 @@ Salary table:
 +----+------+-----+--------+
 
 # Write your MySQL query statement below
+```
 
 update  salary
          set sex =      
 ( case when sex = 'm ' then 'f' else 'm ' end ) ; 
  
- 
+ ```
  
  Output: 
 +----+------+-----+--------+

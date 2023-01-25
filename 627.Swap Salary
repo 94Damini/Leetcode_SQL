@@ -8,6 +8,7 @@
 | Column Name | Type     |
 
 |-------------|----------|
+
 | id          | int      |
 | name        | varchar  |
 | sex         | ENUM     |
